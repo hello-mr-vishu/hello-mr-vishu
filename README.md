@@ -52,8 +52,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishnu vardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/vishnu_80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnu_80" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishnu-vardhan-36848a275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vishnu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnu_80" height="30" width="40" /></a>
 <a href="https://instagram.com/hello_mr.vishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_mr_vishu" height="30" width="40" /></a>
 
 </p>
