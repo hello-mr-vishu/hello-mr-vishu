@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-- 🔭 I’m currently working on **"Ride Insights: Unveiling Patterns in Uber Data"**
-
-- 🌱 I’m currently learning **Power BI**
+- 🔭 I’m currently working on **"Machine Learning"**
 
 - 💬 Ask me about anything related to **Python**
 
