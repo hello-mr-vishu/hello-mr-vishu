@@ -20,16 +20,15 @@
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="36" alt="Java" /></a>
 </p>
 
-<h3 align="left">Data Analytics </h3>
+
+<h3 align="left">Data Analytics & Visualization</h3>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="Power BI" width="60" height="40"/> </a> 
 
-
-<h3 align="left">Frontend </h3>
+<h3 align="left">Frontend Development </h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -38,13 +37,10 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
-
-<h3 align="left">Backened </h3>
-<p align="center>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://flask.palletsprojects.com/en/3.0.x/)" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="70" height="40"/> </a> 
-  
+<h3 align="left">Backend Development </h3>
+<p align="left">
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="70" height="40"/> </a> 
 </p>
-
 
 
 <h3 align="left">Video Editing </h3>
@@ -54,12 +50,11 @@
 <a href="https://play-lh.googleusercontent.com/z73VYVPulymwekoB_kdLz_6gN7MGumH2j9yvBx5P1K9swuMfww3-XwuPAW9TWBpAB0o=w240-h480-rw" target="_blank" rel="noreferrer"> <img src="https://img.utdstc.com/icon/a5b/3d0/a5b3d0acc507df65853df2017a51c4af82a6e3851ca7f0e6e5c4843c18580f6c:200" alt="Node Video" width="40" height="40"/> </a>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishnu-vardhan-36848a275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/vishnu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnu_80" height="30" width="40" /></a>
 <a href="https://instagram.com/hello_mr.vishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_mr_vishu" height="30" width="40" /></a>
-
 </p>
+
 
