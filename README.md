@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋, I'm Vishnu Vardhan</h1>
+<h1 align="center">Hello World👋, This is Vishnu Vardhan</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
