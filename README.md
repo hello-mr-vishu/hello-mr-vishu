@@ -58,3 +58,94 @@
 </p>
 
 
+【DSA (﻿LEETCODING)】
+</h3>
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+  
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" height="80" align="center" /> 
+  <br>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="100" height="80" align="center" />
+</td>
+<td>
+  <img width="430em" src="https://leetcard.jacoblin.cool/hello_mr_vishu?theme=dark&font=Nunito&ext=heatmap" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+<!--LeetCode Sectin End-->
+
+
+<!--Stats Section Start-->
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+
+<h3 align="center">
+ <a href="https://github.com/hello-mr-vishu">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+  <a href="https://github.com/hello-mr-vishu">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 
+ 【STATS】 
+</h3>
+
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+
+<!-- Adding Github Stats and Streak Stats -->
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=hello-mr-vishu&show_icons=true&locale=en&theme=blue" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-mr-vishu&theme=blue" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Adding Readme Stats and Profile Summary -->
+
+<table width="100%" align="center">
+<tr>
+ <td>
+  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=hello-mr-vishu&show_icons=true&locale=en&layout=compact&theme=blue" alt="Readme Stat"/>
+</td>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hello-mr-vishu" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<br>
+</a>
+</p>
+
+<!--Stats Section End-->
+
+ <!--Contributions Section Start -->
+
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/hello-mr-vishu">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/hello-mr-vishu">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
