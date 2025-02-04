@@ -50,12 +50,7 @@
 <a href="https://play-lh.googleusercontent.com/z73VYVPulymwekoB_kdLz_6gN7MGumH2j9yvBx5P1K9swuMfww3-XwuPAW9TWBpAB0o=w240-h480-rw" target="_blank" rel="noreferrer"> <img src="https://img.utdstc.com/icon/a5b/3d0/a5b3d0acc507df65853df2017a51c4af82a6e3851ca7f0e6e5c4843c18580f6c:200" alt="Node Video" width="40" height="40"/> </a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishnu-vardhan-36848a275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/vishnu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnu_80" height="30" width="40" /></a>
-<a href="https://instagram.com/hello_mr.vishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_mr_vishu" height="30" width="40" /></a>
-</p>
+
 
 <!--LeetCode Section Start-->
 <a href="https://github.com/hello-mr-vishu">
@@ -115,20 +110,22 @@
 
 
 <!-- Adding Github Stats and Streak Stats -->
-<!--
+
 <table width="100%" align="center">
 <tr>
 <td>
   <img width="350em" src="https://github-readme-stats.vercel.app/api?username=hello-mr-vishu&show_icons=true&locale=en&theme=blue" alt="GitHub Stats"/>
 </td>
-<td>
+<!--
+ <td>
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-mr-vishu&theme=blue" alt="Streak Stats"/>
 </td>
+ -->
 </tr>
 </table>
 
 <br>
--->
+
 
 <!-- Adding Readme Stats and Profile Summary -->
 
@@ -163,3 +160,11 @@
  <a href="https://github.com/hello-mr-vishu">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vishnu-vardhan-36848a275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vishnu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnu_80" height="30" width="40" /></a>
+<a href="https://instagram.com/hello_mr.vishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_mr_vishu" height="30" width="40" /></a>
+</p>
