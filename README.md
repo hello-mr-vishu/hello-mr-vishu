@@ -115,7 +115,7 @@
 
 
 <!-- Adding Github Stats and Streak Stats -->
-
+<!--
 <table width="100%" align="center">
 <tr>
 <td>
@@ -128,6 +128,7 @@
 </table>
 
 <br>
+-->
 
 <!-- Adding Readme Stats and Profile Summary -->
 
