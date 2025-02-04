@@ -160,6 +160,57 @@
  <a href="https://github.com/hello-mr-vishu">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
+  
+
+
+ <!--Contributions Section Start -->
+
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/hello-mr-vishu">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/hello-mr-vishu">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+   
+【﻿CONTRIBUTIONS】
+</h3>
+
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<!--SNAKE-->
+
+<p align="center">
+<a href="https://github.com/hello-mr-vishu">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+</p>
+
+ </p>
+</details>
+
+<br>
+ <!--Contributions Section End -->
+
+
+<!-- Footer Section-->
+### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
+<div>
+  <p align="center">
+  <a href="https://github.com/hello-mr-vishu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
+</p>
+
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
