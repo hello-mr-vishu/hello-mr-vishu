@@ -57,6 +57,19 @@
 <a href="https://instagram.com/hello_mr.vishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_mr_vishu" height="30" width="40" /></a>
 </p>
 
+<!--LeetCode Section Start-->
+<a href="https://github.com/hello-mr-vishu">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/hello-mr-vishu">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/hello-mr-vishu">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
 
 【DSA (﻿LEETCODING)】
 </h3>
