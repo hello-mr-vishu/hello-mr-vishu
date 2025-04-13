@@ -92,11 +92,6 @@
 
 ---
 
-### 🔹 Machine Learning & AI Concepts
-- Machine Learning, Deep Learning, Natural Language Processing (NLP), CUDA
-
----
-
 ### 🔹 Frontend Development
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
