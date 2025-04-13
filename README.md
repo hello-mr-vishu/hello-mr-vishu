@@ -3,18 +3,18 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-<p style="font-size: 18px;">
+<p >
   - 🎓 I’m currently pursuing <strong>Artificial Intelligence & Data Science</strong><br>
   - 🔭 Currently diving deep into <strong>Machine Learning projects</strong><br>
   - 🧠 Constantly learning & experimenting with new <strong>AI tools and technologies</strong><br>
   - 💬 Feel free to reach out about anything related to <strong>Python, Data Analytics, or AI</strong><br>
-  - 📬 <strong>Email</strong>: vishnurongali21@gmail.com<br>
-  - ⚡ <strong>Fun Fact</strong>: My code is so clean, even bugs file feature requests 😄
+ - 📫 How to reach me - <a href="mailto:vishnurongali21@gmail.com"><strong>vishnurongali21@gmail.com</strong></a><br>
+  - ⚡ <strong>Fun Fact</strong>: My code is so clean, even bugs file feature requests 😄 <br><br>
+  - 💪 *"The only way to win is to fight — with code, with curiosity, and with consistency."*<br>
 </p>
+<br>
 
-<br><br><br><br>
 <h1 align="left">🛠️ My Skill Set</h1>
-
 
 ### 🔹 Programming Languages
 <p align="left">
