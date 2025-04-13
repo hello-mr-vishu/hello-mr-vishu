@@ -10,46 +10,133 @@
 - 📫 How to reach me - **vishnurongali21@gmail.com**
 
 - ⚡ Fun fact : **I code so well, even my bugs are impressed.**
+<h1 align="left">🛠️ My Skill Set</h1>
 
-<h1 align="left">My Skill Set  </h1>
-
-<h3 align="left">Programming Languages </h3>
+### 🔹 Programming Languages
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="36" alt="Java" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="80" height="60" alt="Java" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+  </a>
+</p>
+
+---
+
+### 🔹 Data Science & Analytics
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Seaborn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="60" height="60" alt="SQL Server" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" height="60" alt="SQLite" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="60" height="60" alt="Tableau" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" width="80" height="60" alt="Power BI" />
+  </a>
 </p>
 
 
-<h3 align="left">Data Analytics & Visualization</h3>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="Power BI" width="60" height="40"/> </a> 
+---
 
-<h3 align="left">Frontend Development </h3>
+### 🔹 AI & LLMs
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/OpenAI_logo_2025_%28wordmark%29.svg/1920px-OpenAI_logo_2025_%28wordmark%29.svg.png" width="90" height="40" alt="OpenAI" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1920px-Google_Gemini_logo.svg.png" width="80" height="50" alt="Gemini"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Llama_logo.svg/1920px-Llama_logo.svg.png" width="80" height="40" alt="LLaMA" />
 </p>
 
-<h3 align="left">Backend Development </h3>
+---
+
+### 🔹 Cloud & DevOps
 <p align="left">
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="70" height="40"/> </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width="80" height="50" alt="AWS" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="60" height="60" alt="Azure" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80" alt="Docker" />
+  </a>
+</p>
+
+---
+
+### 🔹 Machine Learning & AI Concepts
+- Machine Learning, Deep Learning, Natural Language Processing (NLP), CUDA
+
+---
+
+### 🔹 Frontend Development
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3" style="margin-right: 20px;" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" />
+  </a>
+</p>
+
+---
+
+### 🔹 Backend Development
+<p align="left">
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="120" height="60" alt="Flask" />
+  </a>
+</p>
+
+---
+
+### 🔹 Tools & Productivity
+<p align="left">
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="60" height="60" alt="Notion" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.drawio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" width="60" height="60" alt="Draw.io" />
+  </a>
 </p>
 
 
-<h3 align="left">Video Editing </h3>
-<a href="https://sites.google.com/view/alight-motion-pc/home" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" alt="Alight Motion" width="40" height="40"/> </a> 
-<a href="https://inshot.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaMWrpyjzFZMZZIHzR0yJDFiUPgnm9Ta3LGIE1gX0_0w&s" alt="Inshot" width="40" height="40"/> </a>
-<a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/013/948/546/original/capcut-logo-on-transparent-white-background-free-vector.jpg" alt="CapCut" width="40" height="40"/> </a>
-<a href="https://play-lh.googleusercontent.com/z73VYVPulymwekoB_kdLz_6gN7MGumH2j9yvBx5P1K9swuMfww3-XwuPAW9TWBpAB0o=w240-h480-rw" target="_blank" rel="noreferrer"> <img src="https://img.utdstc.com/icon/a5b/3d0/a5b3d0acc507df65853df2017a51c4af82a6e3851ca7f0e6e5c4843c18580f6c:200" alt="Node Video" width="40" height="40"/> </a>
+---
 
-
+### 🎬 Video Editing
+<p align="left">
+  <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" width="60" height="60" alt="Alight Motion"  />&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaMWrpyjzFZMZZIHzR0yJDFiUPgnm9Ta3LGIE1gX0_0w&s" width="60" height="60" alt="InShot" />&nbsp;&nbsp;&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/013/948/546/original/capcut-logo-on-transparent-white-background-free-vector.jpg" width="60" height="60" alt="CapCut" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.utdstc.com/icon/a5b/3d0/a5b3d0acc507df65853df2017a51c4af82a6e3851ca7f0e6e5c4843c18580f6c:200" width="60" height="60" alt="Node Video" />
+</p>
 
 
 <!--LeetCode Section Start-->
