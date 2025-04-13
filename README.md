@@ -1,17 +1,20 @@
-<h1 align="center">Hello World👋, This is Vishnu Vardhan</h1>
-<h3 align="center">A passionate Data Enthusiast from India</h3>
+<h1 align="center">Hello World 👋, I'm Vishnu Vardhan</h1>
+<h2 align="center">🚀 <span style="font-size: 24px;">A passionate Data Enthusiast exploring the realms of AI & Data Science</span></h2>
 
-<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-- 🔭 I’m currently working on **"Machine Learning"**
+<p style="font-size: 18px;">
+  - 🎓 I’m currently pursuing <strong>Artificial Intelligence & Data Science</strong><br>
+  - 🔭 Currently diving deep into <strong>Machine Learning projects</strong><br>
+  - 🧠 Constantly learning & experimenting with new <strong>AI tools and technologies</strong><br>
+  - 💬 Feel free to reach out about anything related to <strong>Python, Data Analytics, or AI</strong><br>
+  - 📬 <strong>Email</strong>: vishnurongali21@gmail.com<br>
+  - ⚡ <strong>Fun Fact</strong>: My code is so clean, even bugs file feature requests 😄
+</p>
 
-- 💬 Ask me about anything related to **Python**
-
-- 📫 How to reach me - **vishnurongali21@gmail.com**
-
-- ⚡ Fun fact : **I code so well, even my bugs are impressed.**
-  <br><br><br><br>
+<br><br><br><br>
 <h1 align="left">🛠️ My Skill Set</h1>
+
 
 ### 🔹 Programming Languages
 <p align="left">
