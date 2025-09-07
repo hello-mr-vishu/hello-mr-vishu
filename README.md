@@ -116,7 +116,7 @@
 ### 🔹 Backend Development
 <p align="left">
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="120" height="60" alt="Flask" />
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="120" height="60" alt="Flask" />
   </a>
 </p>
 
