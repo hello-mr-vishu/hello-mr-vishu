@@ -10,153 +10,59 @@
   - 💬 Feel free to reach out about anything related to <strong>Python, Data Analytics, or AI</strong><br>
  - 📫 How to reach me - <a href="mailto:vishnurongali21@gmail.com"><strong>vishnurongali21@gmail.com</strong></a><br>
   - ⚡ <strong>Fun Fact</strong>: My code is so clean, even bugs file feature requests 😄 <br><br>
-  - 💪 *"The only way to win is to fight — with code, with curiosity, and with consistency."*<br>
-</p>
-<br>
 
-<h1 align="left">🛠️ My Skill Set</h1>
 
-### 🔹 Programming Languages
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="80" height="60" alt="Java" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-  </a>
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
----
+### 📊 Data Science & ML
 
-### 🔹 Data Science & Analytics
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Seaborn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="60" height="60" alt="SQL Server" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" height="60" alt="SQLite" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="60" height="60" alt="Tableau" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" width="80" height="60" alt="Power BI" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+### 🤖 AI / LLMs
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface"/>
+</p>
 
-### 🔹 AI & LLMs
-<p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/OpenAI_logo_2025_%28wordmark%29.svg/1920px-OpenAI_logo_2025_%28wordmark%29.svg.png" width="90" height="40" alt="OpenAI" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gemini.google.com/app?hl=en-IN" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1920px-Google_Gemini_logo.svg.png" width="80" height="50" alt="Gemini"  />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.llama.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Llama_logo.svg/1920px-Llama_logo.svg.png" width="80" height="40" alt="LLaMA" />
-  </a>
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
 </p>
 
 ---
 
-### 🔹 Cloud & DevOps
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width="80" height="50" alt="AWS" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="60" height="60" alt="Azure" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80" alt="Docker" />
-  </a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hello-mr-vishu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hello-mr-vishu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello-mr-vishu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-### 🔹 Frontend Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3" style="margin-right: 20px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" />
-  </a>
-</p>
-
----
-
-### 🔹 Backend Development
-<p align="left">
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="120" height="60" alt="Flask" />
-  </a>
-</p>
-
----
-
-### 🔹 Tools & Productivity
-<p align="left">
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="60" height="60" alt="Notion" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.drawio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" width="60" height="60" alt="Draw.io" />
-  </a>
-</p>
-
-
----
-
-### 🎬 Video Editing
-<p align="left">
-  <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" width="60" height="60" alt="Alight Motion"  />&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaMWrpyjzFZMZZIHzR0yJDFiUPgnm9Ta3LGIE1gX0_0w&s" width="60" height="60" alt="InShot" />&nbsp;&nbsp;&nbsp;
-  <img src="https://static.vecteezy.com/system/resources/previews/013/948/546/original/capcut-logo-on-transparent-white-background-free-vector.jpg" width="60" height="60" alt="CapCut" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.utdstc.com/icon/a5b/3d0/a5b3d0acc507df65853df2017a51c4af82a6e3851ca7f0e6e5c4843c18580f6c:200" width="60" height="60" alt="Node Video" />
-</p>
-
-
-<!--LeetCode Section Start-->
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<h3 align="center">
- <a href="https://github.com/hello-mr-vishu">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
- 
- <a href="https://github.com/hello-mr-vishu">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a>
 
 【DSA (﻿LEETCODING)】
 </h3>
@@ -179,135 +85,35 @@
 
 <!--LeetCode Sectin End-->
 
+---
 
-<!--Stats Section Start-->
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-
-<h3 align="center">
- <a href="https://github.com/hello-mr-vishu">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
-  <a href="https://github.com/hello-mr-vishu">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 
- 【STATS】 
-</h3>
-
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-
-
-<!-- Adding Github Stats and Streak Stats -->
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=hello-mr-vishu&show_icons=true&locale=en&theme=blue" alt="GitHub Stats"/>
-</td>
-<!--
- <td>
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-mr-vishu&theme=blue" alt="Streak Stats"/>
-</td>
- -->
-</tr>
-</table>
-
-<br>
-
-
-<!-- Adding Readme Stats and Profile Summary -->
-
-<table width="100%" align="center">
-<tr>
- <td>
-  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=hello-mr-vishu&show_icons=true&locale=en&layout=compact&theme=blue" alt="Readme Stat"/>
-</td>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hello-mr-vishu" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<br>
-</a>
-</p>
-
-<!--Stats Section End-->
-
- <!--Contributions Section Start -->
-
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<h3 align="center">
- <a href="https://github.com/hello-mr-vishu">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
- 
- <a href="https://github.com/hello-mr-vishu">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a>
-  
-
-
- <!--Contributions Section Start -->
-
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<h3 align="center">
- <a href="https://github.com/hello-mr-vishu">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
- 
- <a href="https://github.com/hello-mr-vishu">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a>
-   
-【﻿CONTRIBUTIONS】
-</h3>
-
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-<!--SNAKE-->
+## 🐍 Contributions
 
 <p align="center">
-<a href="https://github.com/hello-mr-vishu">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
-</a>
+  <img src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-dark.svg" />
 </p>
 
- </p>
-</details>
+---
 
-<br>
- <!--Contributions Section End -->
+## 📈 Current Focus
 
+* 🔥 Building **real-world AI projects**
+* 🧠 Mastering **Deep Learning & LLMs**
+* ⚙️ Learning **Production ML Systems**
+* 🚀 Preparing for **Data Science / ML roles**
 
-<!-- Footer Section-->
-### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
-<div>
-  <p align="center">
-  <a href="https://github.com/hello-mr-vishu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
-</p>
+---
 
-<a href="https://github.com/hello-mr-vishu">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-</a>
-</div>
+## 💬 
 
+> *"The only way to win is to fight — with code, curiosity, and consistency."*
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishnu-vardhan-36848a275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/vishnu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishnu_80" height="30" width="40" /></a>
-<a href="https://instagram.com/hello_mr.vishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_mr_vishu" height="30" width="40" /></a>
+## ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Happy+Coding!;Keep+Building!&center=true&width=500&height=45">
 </p>
